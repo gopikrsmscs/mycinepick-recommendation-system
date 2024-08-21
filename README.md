@@ -1,4 +1,6 @@
 # mycinepick-recommendation-system
+
+[Hosted at](https://huggingface.co/spaces/gopikrsmscs/mycinepick-recommendation)
 ## Overview
 MyCinePick is a personalized movie recommendation system built using collaborative filtering techniques and hosted on Streamlit. The app provides tailored movie suggestions based on user input, making it easy to discover new movies aligned with individual preferences. By selecting a user from the dropdown menu, the system generates the top-k movie recommendations, leveraging user-user similarity.
 
